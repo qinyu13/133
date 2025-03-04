@@ -1,2 +1,22 @@
-# 133
-自娱自乐
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="https://s21.ax1x.com/2025/02/28/pE8UHG6.png" />
+    <title>你愿意把你的钱给我吗？</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <img id="mainImage" src="https://s21.ax1x.com/2025/02/28/pE8UHG6.png" alt="爱心">
+        <h1 id="question">你愿意把你的钱给我吗</h1>
+        <div class="buttons">
+            <button id="yes">愿意</button>
+            <button id="no">不要</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
